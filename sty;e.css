@@ -159,6 +159,7 @@ body {
     width: 1px;
     height: 1px;
     opacity: 0;
+    
 
 }
 
@@ -176,7 +177,8 @@ body {
 }
 
 .categoryWrapper:hover button>span>span>span {
-    color: white;
+    color: rgb(180, 40, 40);
+    transform: opacity 75;
 }
 
 .categoryWrapper button>span>span>span:after {
